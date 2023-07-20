@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Thais Siqueira 
 
 - 📚 Estudante de Programação
-- 👩🏼‍💻 Aprendendo front-end e back-end 
+- 👩🏼‍💻 Full Stack
 
 
 <div align="center">
