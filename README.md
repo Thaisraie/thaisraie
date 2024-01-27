@@ -1,7 +1,6 @@
-## Olá! Eu sou a Thais Siqueira 
+## Olá! me chamo Thais Siqueira 
 
-- 📚 Estudante de Programação
-- 👩🏼‍💻 Full Stack
+- 👩🏼‍💻 Estudante de programação Front-end.
 
 
 <div align="center">
