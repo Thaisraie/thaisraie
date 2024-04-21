@@ -16,7 +16,7 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png">
   <img align="center" alt="BD" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png](https://blog.4linux.com.br/wp-content/uploads/2019/12/node-js-1900x950_c.png)">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
 </div>
 
 ##
