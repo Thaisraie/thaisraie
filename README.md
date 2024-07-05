@@ -1,6 +1,7 @@
 ## Bem vindo! sou a Thais,
 
   - 👩🏼‍💻 Full Stack Developer.
+
 Aqui compartiho projetos que tenho trabalhado nos últimos meses. Desde aplicações web inovadoras até scripts automatizados, cada projeto reflete minha paixão por tecnologia e inovação.
 
 
