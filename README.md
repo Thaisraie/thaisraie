@@ -19,7 +19,7 @@ Aqui compartiho projetos que tenho trabalhado nos últimos meses. Desde aplicaç
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
   <img align="center" alt="Workbench" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://camo.githubusercontent.com/7e1c6b9edac7bba870d6e28313d036dd871d6156104153de0616b708118a35a2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6e6573746a732f6e6573746a732d6f726967696e616c2e737667">
+  <img align="center" alt="Nest" height="30" width="40" src="https://images.ctfassets.net/23aumh6u8s0i/3tHY60ojECLh9u8kVcXOpb/88988dbac7f8b907deb2e209e58adacb/nestjs">
 </div>
 
 ##
