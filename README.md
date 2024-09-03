@@ -19,7 +19,7 @@ Aqui compartiho projetos que tenho trabalhado nos últimos meses. Desde aplicaç
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
   <img align="center" alt="Workbench" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Nest" height="30" width="40" src="https://images.ctfassets.net/23aumh6u8s0i/3tHY60ojECLh9u8kVcXOpb/88988dbac7f8b907deb2e209e58adacb/nestjs">
+  <img align="center" alt="Nest" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7HRWi2Xq3OyhKOh2X1J4apXxp11m-zszY6v4D5j3v8INlVEK0T8jTGmAfhZ6H6Tv8l2U&usqp=CAU">
 </div>
 
 ##
